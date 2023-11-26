@@ -1,3 +1,8 @@
+""""
+CP1404 Practical 10 Hunter Kruger-Ilingworth
+flaskdemo + wikipedia
+"""
+
 from flask import Flask, render_template, request, redirect, url_for, session
 import wikipedia
 
